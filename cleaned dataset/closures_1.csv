@@ -1,0 +1,135 @@
+1,20200101,2020-01-01,2020-01-01,2020-11-15,road,S Pinckney St,Full,S Pinckney St
+2,20200302,2020-03-02,2020-03-02,2020-10-02,road,,Partial,
+3,20200330,2020-03-30,2020-03-30,2020-07-10,road,Elizabeth St,Full,Elizabeth St
+4,20200330,2020-03-30,2020-03-30,2020-07-10,road,N Ingersoll St,Full,N Ingersoll St
+5,20200408,2020-04-08,2020-04-08,2020-07-09,road,Martin Luther King Jr Blvd,Partial,Martin Luther King Jr Blvd
+6,20200420,2020-04-20,2020-04-20,2020-11-13,road,Gammon Rd,Partial,Gammon Rd
+7,20200420,2020-04-20,2020-04-20,2020-04-24,road,Schroeder Rd,Full,Schroeder Rd
+8,20200420,2020-04-20,2020-04-20,2020-06-01,road,W Dayton St,Full,W Dayton St
+9,20200420,2020-04-20,2020-04-20,2020-05-22,road,Woods Rd,Full,Woods Rd
+10,20200424,2020-04-24,2020-04-24,2020-06-07,road,McKenna Blvd,Partial,McKenna Blvd
+11,20200427,2020-04-27,2020-04-27,2020-10-02,road,Copeland St,Full,Copeland St
+12,20200427,2020-04-27,2020-04-27,2020-10-02,road,Cross St,Full,Cross St
+13,20200427,2020-04-27,2020-04-27,2020-10-02,road,Gregory St,Full,Gregory St
+14,20200427,2020-04-27,2020-04-27,2020-10-02,road,Western Ave,Full,Western Ave
+15,20200501,2020-05-01,2020-05-01,2020-05-15,road,Buckeye Rd,Full,Buckeye Rd
+16,20200501,2020-05-01,2020-05-01,2020-07-10,road,Packers Ave,Partial,Packers Ave
+17,20200513,2020-05-13,2020-05-13,2020-05-16,road,E Mifflin St,Full,E Mifflin St
+18,20200611,2020-06-11,2020-06-11,2020-08-15,road,Shroeder Rd,Full,Shroeder Rd
+19,20200611,2020-06-11,2020-06-11,2020-08-15,road,Struck St,Full,Struck St
+20,20200615,2020-06-15,2020-06-15,2020-09-04,road,Anderson St,Partial,Anderson St
+21,20200629,2020-06-29,2020-06-29,2020-07-10,road,Sycamore Ave,Full,Sycamore Ave
+22,20200706,2020-07-06,2020-07-06,2020-07-13,road,Southwest Commuter Path,Full,Southwest Commuter Path
+23,20200707,2020-07-07,2020-07-07,2020-08-31,road,Rieder Rd,Full,Rieder Rd
+24,20200713,2020-07-13,2020-07-13,2020-10-02,road,Rethke Ave,Full,Rethke Ave
+25,20200717,2020-07-17,2020-07-17,2020-07-17,road,W Dayton St,Full,W Dayton St
+26,20200727,2020-07-27,2020-07-27,2020-10-16,road,Campbell St,Full,Campbell St
+27,20200727,2020-07-27,2020-07-27,2020-10-16,road,Vilas Ave,Full,Vilas Ave
+28,20200728,2020-07-28,2020-07-28,2020-07-31,road,E Doty St,Full,E Doty St
+29,20200801,2020-08-01,2020-08-01,2020-10-31,road,E Dayton St,Full,E Dayton St
+30,20200810,2020-08-10,2020-08-10,2020-10-31,road,E Gorham St,Partial,E Gorham St
+31,20200825,2020-08-25,2020-08-25,2020-09-11,road,N Ingersoll St,Full,N Ingersoll St
+32,20200826,2020-08-26,2020-08-26,2020-09-25,road,Capital City Trail,Full,Capital City Trail
+33,20201011,2020-10-11,2020-10-11,2020-10-17,road,University Ave,Partial,University Ave
+34,20201019,2020-10-19,2020-10-19,2020-12-31,road,S Blair St,Partial,S Blair St
+35,20210223,2021-02-23,2021-02-23,2021-02-23,road,Felland Rd,Full,Felland Rd
+36,20210322,2021-03-22,2021-03-22,2021-03-25,road,E Doty St,Full,E Doty St
+37,20210329,2021-03-29,2021-03-29,2021-10-01,road,High St,Full,High St
+38,20210329,2021-03-29,2021-03-29,2021-10-01,road,South St,Full,South St
+39,20210329,2021-03-29,2021-03-29,2021-10-01,road,W Wingra St,Full,W Wingra St
+40,20210405,2021-04-05,2021-04-05,2021-09-15,road,Dunning St,Full,Dunning St
+41,20210405,2021-04-05,2021-04-05,2021-09-15,road,Jackson St,Full,Jackson St
+42,20210405,2021-04-05,2021-04-05,2021-09-15,road,Lafollette Ae,Full,Lafollette Ae
+43,20210412,2021-04-12,2021-04-12,2021-05-09,road,South Point Rd,Full,South Point Rd
+44,20210419,2021-04-19,2021-04-19,2021-05-28,road,S Park St,Partial,S Park St
+45,20210510,2021-05-10,2021-05-10,2021-07-31,road,E Gorham St,Partial,E Gorham St
+46,20210524,2021-05-24,2021-05-24,2021-06-18,road,S Gammon Rd,Partial,S Gammon Rd
+47,20210606,2021-06-06,2021-06-06,2021-06-06,road,Ride The Drive - Kennedy Park,Special Event,Ride The Drive - Kennedy Park
+48,20210606,2021-06-06,2021-06-06,2021-06-06,road,Ride The Drive - Warner Park,Special Event,Ride The Drive - Warner Park
+49,20210606,2021-06-06,2021-06-06,2021-06-06,road,Ride The Drive - Wingra Park,Special Event,Ride The Drive - Wingra Park
+50,20210607,2021-06-07,2021-06-07,2021-06-07,road,Mineral Point Rd,Full,Mineral Point Rd
+51,20210612,2021-06-12,2021-06-12,2021-06-12,road,E Johnson St,Full,E Johnson St
+52,20210614,2021-06-14,2021-06-14,2021-11-01,road,Allis Ave,Full,Allis Ave
+53,20210614,2021-06-14,2021-06-14,2021-11-01,road,E Dean Ave,Full,E Dean Ave
+54,20210614,2021-06-14,2021-06-14,2021-11-01,road,Seth Cir,Full,Seth Cir
+55,20210614,2021-06-14,2021-06-14,2021-11-01,road,Shaffer Ave,Full,Shaffer Ave
+56,20210614,2021-06-14,2021-06-14,2021-11-01,road,Tyler Cir,Full,Tyler Cir
+57,20210619,2021-06-19,2021-06-19,2021-06-19,road,Farmers' Market,Special Event,Farmers' Market
+58,20210623,2021-06-23,2021-06-23,2021-06-23,road,Farmers' Market,Special Event,Farmers' Market
+59,20210626,2021-06-26,2021-06-26,2021-06-26,road,Farmers' Market,Special Event,Farmers' Market
+60,20210628,2021-06-28,2021-06-28,2021-10-15,road,Alden Dr,Full,Alden Dr
+61,20210628,2021-06-28,2021-06-28,2021-10-15,road,Hillcrest Dr,Full,Hillcrest Dr
+62,20210628,2021-06-28,2021-06-28,2021-10-15,road,Standish Ct,Full,Standish Ct
+63,20210630,2021-06-30,2021-06-30,2021-06-30,road,Farmers' Market,Special Event,Farmers' Market
+64,20210701,2021-07-01,2021-07-01,2021-07-02,road,Odana Rd,Full,Odana Rd
+65,20210703,2021-07-03,2021-07-03,2021-07-03,road,Farmers' Market,Special Event,Farmers' Market
+66,20210707,2021-07-07,2021-07-07,2021-07-07,road,Farmers' Market,Special Event,Farmers' Market
+67,20210710,2021-07-10,2021-07-10,2021-07-11,road,Art Fair Off the Square,Special Event,Art Fair Off the Square
+68,20210710,2021-07-10,2021-07-10,2021-07-10,road,Farmers' Market,Special Event,Farmers' Market
+69,20210712,2021-07-12,2021-07-12,2021-10-15,road,Felland Rd,Full,Felland Rd
+70,20210712,2021-07-12,2021-07-12,2021-08-04,road,S Bassett St,Full,S Bassett St
+71,20210712,2021-07-12,2021-07-12,2021-11-01,road,W Washington Ave,Partial,W Washington Ave
+72,20210714,2021-07-14,2021-07-14,2021-07-14,road,Farmers' Market,Special Event,Farmers' Market
+73,20210715,2021-07-15,2021-07-15,2021-09-30,road,Helena St,Full,Helena St
+74,20210715,2021-07-15,2021-07-15,2021-09-30,road,Jenifer St,Full,Jenifer St
+75,20210715,2021-07-15,2021-07-15,2021-07-18,road,Maxwell Street Days,Special Event,Maxwell Street Days
+76,20210715,2021-07-15,2021-07-15,2021-09-30,road,Russell St,Full,Russell St
+77,20210717,2021-07-17,2021-07-17,2021-07-17,road,Farmers' Market,Special Event,Farmers' Market
+78,20210721,2021-07-21,2021-07-21,2021-07-21,road,Farmers' Market,Special Event,Farmers' Market
+79,20210722,2021-07-22,2021-07-22,2021-08-06,road,N Bassett St,Full,N Bassett St
+80,20210723,2021-07-23,2021-07-23,2021-07-24,road,E Gorham St,Full,E Gorham St
+81,20210723,2021-07-23,2021-07-23,2021-07-27,road,S Broom St,Full,S Broom St
+82,20210724,2021-07-24,2021-07-24,2021-07-24,road,Farmers' Market,Special Event,Farmers' Market
+83,20210726,2021-07-26,2021-07-26,2021-11-05,road,Hooker Ave,Full,Hooker Ave
+84,20210726,2021-07-26,2021-07-26,2021-08-13,road,Old Middleton Rd,Full,Old Middleton Rd
+85,20210726,2021-07-26,2021-07-26,2021-08-13,road,Old Middleton Rd,Partial,Old Middleton Rd
+86,20210726,2021-07-26,2021-07-26,2021-11-05,road,Sheridan Dr,Full,Sheridan Dr
+87,20210726,2021-07-26,2021-07-26,2021-11-05,road,Steensland Dr,Full,Steensland Dr
+88,20210728,2021-07-28,2021-07-28,2021-07-28,road,Farmers' Market,Special Event,Farmers' Market
+89,20210731,2021-07-31,2021-07-31,2021-07-31,road,Farmers' Market,Special Event,Farmers' Market
+90,20210804,2021-08-04,2021-08-04,2021-08-04,road,Farmers' Market,Special Event,Farmers' Market
+91,20210804,2021-08-04,2021-08-04,2021-10-04,road,W Washington Ave,Full,W Washington Ave
+92,20210806,2021-08-06,2021-08-06,2021-08-11,road,S Park St,Full,S Park St
+93,20210807,2021-08-07,2021-08-07,2021-08-07,road,Farmers' Market,Special Event,Farmers' Market
+94,20210810,2021-08-10,2021-08-10,2021-08-12,road,S Bedford St,Partial,S Bedford St
+95,20210811,2021-08-11,2021-08-11,2021-08-11,road,Farmers' Market,Special Event,Farmers' Market
+96,20210814,2021-08-14,2021-08-14,2021-08-14,road,Farmers' Market,Special Event,Farmers' Market
+97,20210818,2021-08-18,2021-08-18,2021-08-18,road,Farmers' Market,Special Event,Farmers' Market
+98,20210818,2021-08-18,2021-08-18,2021-08-22,road,S Fair Oaks Ave,Full,S Fair Oaks Ave
+99,20210819,2021-08-19,2021-08-19,2021-08-19,road,Madison Night Market,Special Event,Madison Night Market
+100,20210821,2021-08-21,2021-08-21,2021-08-21,road,Farmers' Market,Special Event,Farmers' Market
+101,20210825,2021-08-25,2021-08-25,2021-08-25,road,Farmers' Market,Special Event,Farmers' Market
+102,20210825,2021-08-25,2021-08-25,2021-08-29,road,S Dickinson St,Full,S Dickinson St
+103,20210828,2021-08-28,2021-08-28,2021-08-28,road,Farmers' Market,Special Event,Farmers' Market
+104,20210901,2021-09-01,2021-09-01,2021-09-01,road,Farmers' Market,Special Event,Farmers' Market
+105,20210904,2021-09-04,2021-09-04,2021-09-04,road,Farmers' Market,Special Event,Farmers' Market
+106,20210908,2021-09-08,2021-09-08,2021-09-08,road,Farmers' Market,Special Event,Farmers' Market
+107,20210911,2021-09-11,2021-09-11,2021-09-11,road,Farmers' Market,Special Event,Farmers' Market
+108,20210912,2021-09-12,2021-09-12,2021-09-12,road,Ironman Wisconsin,Special Event,Ironman Wisconsin
+109,20210915,2021-09-15,2021-09-15,2021-09-15,road,Farmers' Market,Special Event,Farmers' Market
+110,20210916,2021-09-16,2021-09-16,2021-09-16,road,Madison Night Market,Special Event,Madison Night Market
+111,20210918,2021-09-18,2021-09-18,2021-09-18,road,Farmers' Market,Special Event,Farmers' Market
+112,20210920,2021-09-20,2021-09-20,2021-10-31,road,E Johnson St,Full,E Johnson St
+113,20210922,2021-09-22,2021-09-22,2021-09-22,road,Farmers' Market,Special Event,Farmers' Market
+114,20210925,2021-09-25,2021-09-25,2021-09-26,road,Art Fair on the Square,Special Event,Art Fair on the Square
+115,20210927,2021-09-27,2021-09-27,2021-10-01,road,Southwest Path,Full,Southwest Path
+116,20210929,2021-09-29,2021-09-29,2021-09-29,road,Farmers' Market,Special Event,Farmers' Market
+117,20211002,2021-10-02,2021-10-02,2021-10-02,road,Farmers' Market,Special Event,Farmers' Market
+118,20211004,2021-10-04,2021-10-04,2021-10-08,road,Southwest Path,Full,Southwest Path
+119,20211006,2021-10-06,2021-10-06,2021-10-06,road,Farmers' Market,Special Event,Farmers' Market
+120,20211009,2021-10-09,2021-10-09,2021-10-09,road,Farmers' Market,Special Event,Farmers' Market
+121,20211011,2021-10-11,2021-10-11,2021-10-15,road,Walter Rd,Full,Walter Rd
+122,20211013,2021-10-13,2021-10-13,2021-10-13,road,Farmers' Market,Special Event,Farmers' Market
+123,20211015,2021-10-15,2021-10-15,2021-10-20,road,Commercial Ave,Full,Commercial Ave
+124,20211016,2021-10-16,2021-10-16,2021-10-16,road,Farmers' Market,Special Event,Farmers' Market
+125,20211018,2021-10-18,2021-10-18,2021-10-22,road,Commercial Ave,Full,Commercial Ave
+126,20211018,2021-10-18,2021-10-18,2021-11-12,road,Felland Rd,Full,Felland Rd
+127,20211020,2021-10-20,2021-10-20,2021-10-20,road,Farmers' Market,Special Event,Farmers' Market
+128,20211022,2021-10-22,2021-10-22,2021-10-22,road,Madison Night Market,Special Event,Madison Night Market
+129,20211023,2021-10-23,2021-10-23,2021-10-23,road,Farmers' Market,Special Event,Farmers' Market
+130,20211027,2021-10-27,2021-10-27,2021-10-27,road,Farmers' Market,Special Event,Farmers' Market
+131,20211030,2021-10-30,2021-10-30,2021-10-30,road,Farmers' Market,Special Event,Farmers' Market
+132,20211103,2021-11-03,2021-11-03,2021-11-03,road,Farmers' Market,Special Event,Farmers' Market
+133,20211106,2021-11-06,2021-11-06,2021-11-06,road,Farmers' Market,Special Event,Farmers' Market
+134,20211118,2021-11-18,2021-11-18,2021-11-18,road,Madison Night Market,Special Event,Madison Night Market
+135,20211216,2021-12-16,2021-12-16,2021-12-16,road,Madison Night Market,Special Event,Madison Night Market
